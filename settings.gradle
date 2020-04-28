@@ -1,0 +1,2 @@
+rootProject.name='My_Fisrt_Aplication'
+include ':app'
